@@ -4,7 +4,7 @@ Responsive Gameing Landing Page Design 🎮
 
 ![16](https://github.com/Reza-Developer01/GameLanding/blob/main/16.png)
 
-- ✨ [Demo Project](https://reza-developer01.github.io/Cyber/)
+- ✨ [Demo Project](https://reza-developer01.github.io/GameLanding/)
 
 - 👨‍💻 Developed by Reza Rashvand
 
